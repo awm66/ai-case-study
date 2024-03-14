@@ -1,31 +1,31 @@
 # ai-case-study
-# TITLE
+# Upstart
 
 ## Overview and Origin
 
-* Name of company
+* Name of company: Upstart
 
-* When was the company incorporated?
+* When was the company incorporated? 2012
 
-* Who are the founds of the company?
+* Who are the founders of the company? CEO Dave Girouard with partners Anna Counselman and Paul Gu
 
 * How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received?
+* How is the company funded? How much funding have they received? Upstart went public with an IPO in December 2020 with an initial offering price of $20.00 for 9,000,000 common shares.
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* What specific problem is the company or project trying to solve? The overarching problem to solve is efficient access to prime credit by consumers It is important to note that 80% of borrowers have never defaulted on a loan, yet only 48% have access to prime credit.
 
-* Who is the company's intended customers? Is there any information about the market size of this set of customers?
+* Who is the company's intended customers? Is there any information about the market size of this set of customers? Upstart equips small regional banks with artificial intelligence software packaged in an API that instantly assesses a potential borrower’s creditworthiness via complex algorithms and robust prediction models.
 
-* What solution does this compan yoffer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing; you may want to search the company's engineering blog or use sties like Stackshare to find this information.)
 
 ## Landscape
 
-* What field is the company in?
+* What field is the company in? B2B Retail Lending Technology
 
 * What have been the major trends and innovations of this field over the last 5 and 10 years?
 
