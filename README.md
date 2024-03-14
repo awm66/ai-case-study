@@ -21,7 +21,7 @@
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing; you may want to search the company's engineering blog or use sties like Stackshare to find this information.) According to Stackshare, Upstart uses JavaScript, JQuery, React, AngularJS, TypeScript, and Kotlin for application development. Other techologies include PostfreSQL, Ruby, Rails, and Amazon S3 for data. DevOps technology includes Git, GitHub, VS Code, Kubernetes, AWS Elastic, and DataDog. Stackshare did not list any specific specialized software.
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing; you may want to search the company's engineering blog or use sties like Stackshare to find this information.) According to Stackshare, Upstart uses JavaScript, JQuery, React, AngularJS, TypeScript, and Kotlin for application development. Other techologies include PostfreSQL, Ruby, Rails, and Amazon S3 for data. DevOps technology includes Git, GitHub, VS Code, Kubernetes, AWS Elastic, and DataDog. Stackshare did not list any specific specialized AI or ML software.
 
 ## Landscape
 
