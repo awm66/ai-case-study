@@ -41,7 +41,7 @@
 > *B2B Loan Approval Technology*
 
 * What have been the major trends and innovations of this field over the last 5 and 10 years?
-> *In general, the past decade has brought forward a rise in digital platforms, personalization, automation and efficiency, the need for information security and fraud prevention, and digitial signing. Upstart has been a key pioneer in many, if not all, of these innovations.
+> *In general, the past decade has brought forward a rise in digital platforms, personalization, automation and efficiency, the need for information security and fraud prevention, and digitial signing. Upstart has been a key pioneer in many, if not all, of these innovations.*
 
 * What are the other major companies in this field? 
 > *[Blend](https://blend.com) and [ZestFinance](https://www.zest.ai) are two other FinTech companies that advertise rapid loan approval utilizing artifical intelligence.*
