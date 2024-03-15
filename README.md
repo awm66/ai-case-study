@@ -41,7 +41,7 @@
 > *B2B Loan Approval Technology*
 
 * What have been the major trends and innovations of this field over the last 5 and 10 years?
-> *In general, the past [decade[(https://www.linkedin.com/pulse/evolution-digital-lending-trends-innovations-glancecx-lmxrc/) has brought forward a rise in digital platforms, personalization, automation and efficiency, the need for information security and fraud prevention, and digitial signing. Upstart has been a key pioneer in many, if not all, of these innovations.*
+> *In general, the past [decade](https://www.linkedin.com/pulse/evolution-digital-lending-trends-innovations-glancecx-lmxrc/) has brought forward a rise in digital platforms, personalization, automation and efficiency, the need for information security and fraud prevention, and digitial signing. Upstart has been a key pioneer in many, if not all, of these innovations.*
 
 * What are the other major companies in this field? 
 > *[Blend](https://blend.com) and [ZestFinance](https://www.zest.ai) are two other FinTech companies that advertise rapid loan approval utilizing artifical intelligence.*
@@ -75,7 +75,11 @@
 ### Sources
 
 Daniel, L. W. (2022, February 3). The story of upstart - the 20X stock. Medium. https://medium.com/bullacademy/the-story-of-upstart-the-20x-stock-3f61b933c438 
+
 Glance. (2024, March 13). The evolution of Digital lending: Trends and innovations. LinkedIn. https://www.linkedin.com/pulse/evolution-digital-lending-trends-innovations-glancecx-lmxrc/ 
+
 Peachman, R. R. (2023, September 12). Meet the best banks and credit unions in each state 2023. Forbes. https://www.forbes.com/sites/rachelpeachman/2023/06/20/meet-the-best-banks-and-credit-unions-in-each-state-2023/ 
+
 Upstart - upstart Tech Stack. StackShare. (n.d.). https://stackshare.io/upstart/upstart 
+
 Upstart announces pricing of Initial Public Offering. Upstart Network, Inc. (n.d.). https://ir.upstart.com/news-releases/news-release-details/upstart-announces-pricing-initial-public-offering 
