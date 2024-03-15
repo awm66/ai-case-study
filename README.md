@@ -11,7 +11,7 @@
 
 * How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received? *Upstart went public with an IPO in December 2020 with an initial offering price of $20.00 for 9,000,000 common shares.*
+* How is the company funded? How much funding have they received? *Upstart went public with an [IPO](https://ir.upstart.com/news-releases/news-release-details/upstart-announces-pricing-initial-public-offering) in December 2020 with an initial offering price of $20.00 for 9,000,000 common shares.*
 
 ## Business Activities
 
@@ -21,7 +21,7 @@
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing; you may want to search the company's engineering blog or use sties like Stackshare to find this information.) *According to Stackshare, Upstart uses JavaScript, JQuery, React, AngularJS, TypeScript, and Kotlin for application development. Other techologies include PostfreSQL, Ruby, Rails, and Amazon S3 for data. DevOps technology includes Git, GitHub, VS Code, Kubernetes, AWS Elastic, and DataDog. Stackshare did not list any specific specialized AI or ML software.*
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing; you may want to search the company's engineering blog or use sties like Stackshare to find this information.) *According to [Stackshare](https://stackshare.io/upstart/upstart), Upstart uses JavaScript, JQuery, React, AngularJS, TypeScript, and Kotlin for application development. Other techologies include PostfreSQL, Ruby, Rails, and Amazon S3 for data. DevOps technology includes Git, GitHub, VS Code, Kubernetes, AWS Elastic, and DataDog. Stackshare did not list any specific specialized AI or ML software.*
 
 ## Landscape
 
@@ -31,7 +31,7 @@
 
 * What are the other major companies in this field? *Blend and ZestFinance are two other FinTech companies that advertise rapid loan approval utilizing artifical intelligence.*
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? *As a publicly traded company, core metrics will be relevant to shareholders. For FY2023, reported metrics via Upstart's investor's relations page include revenue, transaction volume, conversion rate, income, net income, earnings per share, and EBITDA. At year end, Upstart reported 39% reduction in revenue, 59% decrease in loan originations, 4.4% decrease in conversion rate, income loss of $257 million, net income loss of $240 million, EPS loss of $2.87, and EBITDA loss of $17.2 million. As listed, Upstart's performance has declined in 2023.*
+* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? *As a publicly traded company, core metrics will be relevant to shareholders. For FY2023, reported metrics via Upstart's investor's relations page include revenue, transaction volume, conversion rate, income, net income, earnings per share, and EBITDA. At year end, [Upstart](https://ir.upstart.com/news-releases/news-release-details/upstart-announces-fourth-quarter-and-full-year-2023-results) reported 39% reduction in revenue, 59% decrease in loan originations, 4.4% decrease in conversion rate, income loss of $257 million, net income loss of $240 million, EPS loss of $2.87, and EBITDA loss of $17.2 million. As listed, Upstart's performance declined in 2023.*
 
 ## Recommendations
 
