@@ -9,7 +9,7 @@
 
 * Who are the founders of the company? *CEO [Dave Girouard](https://www.linkedin.com/in/davegirouard/) with partners [Anna Counselman](https://www.linkedin.com/in/anna-mongayt-counselman/) and [Paul Gu](https://www.linkedin.com/in/gupaul/). According to [Stackshare](https://stackshare.io/upstart/upstart), these founders are ex-Googlers.*
 
-* How did the idea for the company (or project) come about? *A core belief that affordable credit has been central to unlocking mobility and opportunity, and a passion to create more accurate, efficient, and inclusive lending through the use of AI.
+* How did the idea for the company (or project) come about? *A core belief that affordable credit has been central to unlocking mobility and opportunity, and a passion to create more accurate, efficient, and inclusive lending through the use of AI.*
 
 * How is the company funded? How much funding have they received? *Upstart went public with an [IPO](https://ir.upstart.com/news-releases/news-release-details/upstart-announces-pricing-initial-public-offering) in December 2020 with an initial offering price of $20.00 for 9,000,000 common shares.*
 
