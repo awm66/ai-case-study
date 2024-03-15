@@ -17,7 +17,7 @@
 
 * What specific problem is the company or project trying to solve? *The overarching problem to solve is efficient access to prime credit by consumers It is important to note that 80% of borrowers have never defaulted on a loan, yet only 48% have access to prime credit.*
 
-* Who is the company's intended customers? Is there any information about the market size of this set of customers? *Upstart equips small regional banks with artificial intelligence software packaged in an API that instantly assesses a potential borrower’s creditworthiness via complex algorithms and robust prediction models. As of December 31, 2024, Upstart lists 100+ banks and credit unions as clients. Forbes, as of June 20, 2023, states there are approximately 9,000 banks and credit unions in the United States.*
+* Who is the company's intended customers? Is there any information about the market size of this set of customers? *Upstart equips small regional banks with artificial intelligence software packaged in an API that instantly assesses a potential borrower’s creditworthiness via complex algorithms and robust prediction models. As of December 31, 2024, Upstart lists 100+ banks and credit unions as clients. [Forbes](https://www.forbes.com/sites/rachelpeachman/2023/06/20/meet-the-best-banks-and-credit-unions-in-each-state-2023/?sh=4a0082b36707), as of June 20, 2023, states there are approximately 9,000 banks and credit unions in the United States.*
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
