@@ -5,7 +5,7 @@
 
 * Name of company: *[Upstart](https://www.upstart.com/?)*
 
-* When was the company incorporated? *2012*
+* When was the company incorporated? *[2012](https://medium.com/bullacademy/the-story-of-upstart-the-20x-stock-3f61b933c438)*
 
 * Who are the founders of the company? *CEO [Dave Girouard](https://www.linkedin.com/in/davegirouard/) with partners [Anna Counselman](https://www.linkedin.com/in/anna-mongayt-counselman/) and [Paul Gu](https://www.linkedin.com/in/gupaul/). According to [Stackshare](https://stackshare.io/upstart/upstart), these founders are ex-Googlers.*
 
