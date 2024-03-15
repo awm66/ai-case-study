@@ -61,9 +61,9 @@
 > ![Macro Image](upstart_macro_index.png)
 
 * Why do you think that offering this product or service would benefit the company?
-> *The new mortgage offering would be congruent with their belief to increase mobility and opportunity. Clearly, mortgages are a fundamental need for people of all races, ages, and genders.*
+> *The new mortgage offering would be congruent with their belief to increase mobility and opportunity. Clearly, mortgages are a fundamental need for people of all races, ages, and genders. Besides great fulfillment of their mission, it would create another revenue stream for Upstart.*
 
-> *The variable rate personal loans would be consistent with their focus on more accurate, risk based pricing.*
+> *The variable rate personal loans would be consistent with their focus on more accurate, risk based pricing. This would help their bank and credit union cleints offset dynamic risk after closing the loan.*
 
 * What technologies would this additional product or service utilize? 
 > *Based on the information provided and what I know so far in this course, I am unable to confidently state if any additional technology is required. Upstart appears to have what they need for AI and ML solutions.*
