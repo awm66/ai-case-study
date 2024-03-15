@@ -7,7 +7,7 @@
 
 * When was the company incorporated? *2012*
 
-* Who are the founders of the company? *CEO Dave Girouard with partners Anna Counselman and Paul Gu. According to Stackshare, these founders are ex-Googlers.*
+* Who are the founders of the company? *CEO Dave Girouard with partners Anna Counselman and Paul Gu. According to [Stackshare](https://stackshare.io/upstart/upstart), these founders are ex-Googlers.*
 
 * How did the idea for the company (or project) come about?
 
@@ -31,7 +31,7 @@
 
 * What are the other major companies in this field? *Blend and ZestFinance are two other FinTech companies that advertise rapid loan approval utilizing artifical intelligence.*
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? *As a publicly traded company, core metrics will be relevant to shareholders. For FY2023, reported metrics via Upstart's investor's relations include revenue, transaction volume, conversion rate, income, net income, earnings per share, and EBITDA. At year end, Upstart reported 39% reduction in revenue, 59% decrease in loan originations, 4.4% decrease in conversion rate, income loss of $257 million, net income loss of $240 million, EPS loss of $2.87, and EBITDA loss of $17.2 million. As listed, Upstart's performance has declined in 2023.*
+* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? *As a publicly traded company, core metrics will be relevant to shareholders. For FY2023, reported metrics via Upstart's investor's relations page include revenue, transaction volume, conversion rate, income, net income, earnings per share, and EBITDA. At year end, Upstart reported 39% reduction in revenue, 59% decrease in loan originations, 4.4% decrease in conversion rate, income loss of $257 million, net income loss of $240 million, EPS loss of $2.87, and EBITDA loss of $17.2 million. As listed, Upstart's performance has declined in 2023.*
 
 ## Recommendations
 
