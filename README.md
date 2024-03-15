@@ -3,7 +3,7 @@
 
 ## Overview and Origin
 
-* Name of company: *Upstart*
+* Name of company: *[Upstart](https://www.upstart.com/?)*
 
 * When was the company incorporated? *2012*
 
