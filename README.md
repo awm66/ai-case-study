@@ -70,3 +70,6 @@
 
 * Why are these technologies appropriate for your solution?
 > *There is no credible information indicating that their existing technologies would not be sufficient to offer the new products. Upstart is already sitting well in terms of technology for AI and ML.*
+
+---
+### Sources
