@@ -19,10 +19,10 @@
 
 * Who is the company's intended customers? Is there any information about the market size of this set of customers? *Upstart equips small regional banks with artificial intelligence software packaged in an API that instantly assesses a potential borrower’s creditworthiness via complex algorithms and robust prediction models. As of December 31, 2024, Upstart lists 100+ banks and credit unions as clients. [Forbes](https://www.forbes.com/sites/rachelpeachman/2023/06/20/meet-the-best-banks-and-credit-unions-in-each-state-2023/?sh=4a0082b36707), as of June 20, 2023, states there are approximately 9,000 banks and credit unions in the United States.*
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) *As compared to traditional online loan approval systems, Upstart offers:
-- Instant approval with more accurate models enabling fewer defaults
-- Realtime verificaiton to combat fraud
-- Fully-automated digitial signing with minimal human interaction to approve and fund loans*
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) *As compared to traditional online loan approval systems, Upstart offers:*
+- *Instant approval with more accurate models enabling fewer defaults*
+- *Realtime verificaiton to combat fraud*
+- *Fully-automated digitial signing with minimal human interaction to approve and fund loans*
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing; you may want to search the company's engineering blog or use sties like Stackshare to find this information.) *According to [Stackshare](https://stackshare.io/upstart/upstart), Upstart uses JavaScript, JQuery, React, AngularJS, TypeScript, and Kotlin for application development. PostfreSQL, Ruby, Rails, and Amazon S3 are used for data. DevOps technology includes Git, GitHub, VS Code, Kubernetes, AWS Elastic, and DataDog. Stackshare did not list any specific specialized AI or ML software. For a complete list of all technology, refer to Stackshare.*
 
