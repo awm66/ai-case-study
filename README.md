@@ -7,7 +7,7 @@
 
 * When was the company incorporated? *2012*
 
-* Who are the founders of the company? *CEO Dave Girouard with partners Anna Counselman and Paul Gu. According to [Stackshare](https://stackshare.io/upstart/upstart), these founders are ex-Googlers.*
+* Who are the founders of the company? *CEO [Dave Girouard](https://www.linkedin.com/in/davegirouard/) with partners [Anna Counselman](https://www.linkedin.com/in/anna-mongayt-counselman/) and [Paul Gu](https://www.linkedin.com/in/gupaul/). According to [Stackshare](https://stackshare.io/upstart/upstart), these founders are ex-Googlers.*
 
 * How did the idea for the company (or project) come about?
 
