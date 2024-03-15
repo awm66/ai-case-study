@@ -56,13 +56,17 @@
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 > *Currently Upstart does not offer mortgage orginiation for home purchases or refinance. This would be a natural extension of their product offerings and would fit well with their current lending AI ecosystem. Currently, Upstart only offers HELOC loans.*
 
-> *Another potential opportunity is to offer variable rate personal loans that adjust based upon changes in market conditions and/or borrow situations. Currently, Upstart only offers fixed rate unsecured loans, yet has the capability to forecast future defaults month-by-month with their proprietary Macro Index.*
+> *Another potential opportunity is to offer variable rate personal loans that adjust based upon changes in market conditions and/or borrow situations. Currently, Upstart only offers fixed rate unsecured loans, yet has the capability to forecast future defaults month-by-month with their proprietary Upstart Macro Index (UMI).*
 
 > ![Macro Image](upstart_macro_index.png)
 
 * Why do you think that offering this product or service would benefit the company?
+> *The new mortgage offering would be congruent with their belief to increase mobility and opportunity. Clearly, mortgages are a fundamental need for people of all races, ages, and genders.*
+
+> *The variable rate personal loans would be consistent with their focus on more accurate, risk based pricing.*
 
 * What technologies would this additional product or service utilize? 
 > *Based on the information provided and what I know so far in this course, I am unable to confidently state if any additional technology is required. Upstart appears to have what they need for AI and ML solutions.*
 
-* Why are thise technologies appropriate for your solution?
+* Why are these technologies appropriate for your solution?
+> *There is no credible information indicating that their existing technologies would not be sufficient to offer the new products. Upstart is already sitting well in terms of technology for AI and ML.*
