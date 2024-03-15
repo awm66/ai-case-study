@@ -47,7 +47,7 @@
 > *[Blend](https://blend.com) and [ZestFinance](https://www.zest.ai) are two other FinTech companies that advertise rapid loan approval utilizing artifical intelligence.*
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? 
-> *As a publicly traded company, core metrics will be relevant to shareholders. For FY2023, reported metrics via Upstart's investor's relations page include revenue, transaction volume, conversion rate, income, net income, earnings per share, and EBITDA. 
+> *As a publicly traded company, core metrics will be relevant to shareholders. For FY2023, reported metrics via Upstart's investor's relations page include revenue, transaction volume, conversion rate, income, net income, earnings per share, and EBITDA.*
 
 > *At year end, [Upstart](https://ir.upstart.com/news-releases/news-release-details/upstart-announces-fourth-quarter-and-full-year-2023-results) reported 39% reduction in revenue, 59% decrease in loan originations, 4.4% decrease in conversion rate, income loss of $257 million, net income loss of $240 million, EPS loss of $2.87, and EBITDA loss of $17.2 million. As listed, Upstart's performance declined in 2023.* 😢
 
