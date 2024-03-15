@@ -73,3 +73,9 @@
 
 ---
 ### Sources
+
+Daniel, L. W. (2022, February 3). The story of upstart - the 20X stock. Medium. https://medium.com/bullacademy/the-story-of-upstart-the-20x-stock-3f61b933c438 
+Glance. (2024, March 13). The evolution of Digital lending: Trends and innovations. LinkedIn. https://www.linkedin.com/pulse/evolution-digital-lending-trends-innovations-glancecx-lmxrc/ 
+Peachman, R. R. (2023, September 12). Meet the best banks and credit unions in each state 2023. Forbes. https://www.forbes.com/sites/rachelpeachman/2023/06/20/meet-the-best-banks-and-credit-unions-in-each-state-2023/ 
+Upstart - upstart Tech Stack. StackShare. (n.d.). https://stackshare.io/upstart/upstart 
+Upstart announces pricing of Initial Public Offering. Upstart Network, Inc. (n.d.). https://ir.upstart.com/news-releases/news-release-details/upstart-announces-pricing-initial-public-offering 
