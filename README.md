@@ -7,17 +7,17 @@
 
 * When was the company incorporated? *2012*
 
-* Who are the founders of the company? >*CEO Dave Girouard with partners Anna Counselman and Paul Gu. According to [Stackshare](https://stackshare.io/upstart/upstart), these founders are ex-Googlers.*
+* Who are the founders of the company? > *CEO Dave Girouard with partners Anna Counselman and Paul Gu. According to [Stackshare](https://stackshare.io/upstart/upstart), these founders are ex-Googlers.*
 
 * How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received? >*Upstart went public with an [IPO](https://ir.upstart.com/news-releases/news-release-details/upstart-announces-pricing-initial-public-offering) in December 2020 with an initial offering price of $20.00 for 9,000,000 common shares.*
+* How is the company funded? How much funding have they received? *Upstart went public with an [IPO](https://ir.upstart.com/news-releases/news-release-details/upstart-announces-pricing-initial-public-offering) in December 2020 with an initial offering price of $20.00 for 9,000,000 common shares.*
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve? >*The overarching problem to solve is efficient access to prime credit by consumers It is important to note that 80% of borrowers have never defaulted on a loan, yet only 48% have access to prime credit.*
+* What specific problem is the company or project trying to solve? > *The overarching problem to solve is efficient access to prime credit by consumers It is important to note that 80% of borrowers have never defaulted on a loan, yet only 48% have access to prime credit.*
 
-* Who is the company's intended customers? Is there any information about the market size of this set of customers? >*Upstart equips small regional banks with artificial intelligence software packaged in an API that instantly assesses a potential borrower’s creditworthiness via complex algorithms and robust prediction models. As of December 31, 2024, Upstart lists 100+ banks and credit unions as clients. Forbes, as of June 20, 2023, states there are approximately 9,000 banks and credit unions in the United States.*
+* Who is the company's intended customers? Is there any information about the market size of this set of customers? *Upstart equips small regional banks with artificial intelligence software packaged in an API that instantly assesses a potential borrower’s creditworthiness via complex algorithms and robust prediction models. As of December 31, 2024, Upstart lists 100+ banks and credit unions as clients. Forbes, as of June 20, 2023, states there are approximately 9,000 banks and credit unions in the United States.*
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
