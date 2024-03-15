@@ -55,7 +55,8 @@
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 > *Currently Upstart does not offer mortgage orginiation for home purchases or refinance. This would be a natural extension of their product offerings and would fit well with their current lending AI ecosystem. Currently, Upstart only offers HELOC loans.*
-> *Another potential opportunity is to offer variable rate personal loans that adjust based upon changes in market conditions and/or borrow situations. Currently, Upstart only offers fixed rate unsecured loans, yet has the capability to forecast future defaults month-by-month with their proprietary ==Macro Index==.*
+> *Another potential opportunity is to offer variable rate personal loans that adjust based upon changes in market conditions and/or borrow situations. Currently, Upstart only offers fixed rate unsecured loans, yet has the capability to forecast future defaults month-by-month with their proprietary Macro Index.*
+![Macro Image](img)/Users/awm/Desktop/Screenshot 2024-03-15 at 10.34.06 AM.png)
 
 * Why do you think that offering this product or service would benefit the company?
 
