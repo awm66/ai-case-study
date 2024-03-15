@@ -1,6 +1,6 @@
 # ai-case-study
 ---
-# Upstart
+# Upstart Holdings, Inc.
 
 ## Overview and Origin
 
